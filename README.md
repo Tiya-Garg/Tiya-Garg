@@ -69,5 +69,5 @@ Deputy Director General, IGDTUW MUN 2026 · Media Head, BHAV Society
 ## Connect
 
 - [LinkedIn](https://linkedin.com/in/tiya-garg-a72b2931a)
-- [Portfolio](https://YOUR-PORTFOLIO-URL)
+- [Portfolio](https://tiya-garg.github.io/Portfolio/)
 - [Email](mailto:tiyagarg0706@gmail.com)
